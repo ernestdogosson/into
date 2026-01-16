@@ -73,13 +73,14 @@ h1 {
 
 .icon-heart {
   color: #ef4444;
+  font-size: 1.2rem;
 }
 
 .icon-football {
   color: #22c55e;
 }
 
-.icon-code {
+.icon-building {
   color: #8b5cf6;
 }
 
@@ -93,19 +94,28 @@ h1 {
 
 .icon-star {
   color: #eab308;
+  font-size: 1.2rem;
 }
 
 .icon-plane {
   color: #06b6d4;
 }
 
-.icon-bolt {
+.icon-bolt,
+.icon-smile {
   color: #f59e0b;
+
+}
+
+.icon-bolt {
+  font-size: 1.2rem;
 }
 
 .icon-question {
   color: #6366f1;
+  font-size: 1.2rem;
 }
+
 
 /* CARDS */
 
