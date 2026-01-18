@@ -80,7 +80,8 @@ h1 {
   color: #22c55e;
 }
 
-.icon-building {
+.icon-cubes,
+.icon-goofy {
   color: #8b5cf6;
 }
 
@@ -88,7 +89,8 @@ h1 {
   color: #f97316;
 }
 
-.icon-music {
+.icon-music,
+.icon-flush {
   color: #ec4899;
 }
 
@@ -109,6 +111,14 @@ h1 {
 
 .icon-bolt {
   font-size: 1.2rem;
+}
+
+.icon-bicycle {
+  color: #0ea5e9;
+}
+
+.icon-hiking {
+  color: #84cc16;
 }
 
 .icon-question {
